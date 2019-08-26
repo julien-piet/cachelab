@@ -8,6 +8,8 @@ The relevant files to the submission are csim.c and trans.c. This submission got
 
 Below are the instructions for running the grading system.
 
+```
+
 This is the handout directory for the CS:APP Cache Lab. 
 
 ************************
@@ -47,3 +49,5 @@ test-csim*   Tests your cache simulator
 test-trans.c Tests your transpose function
 tracegen.c   Helper program used by test-trans
 traces/      Trace files used by test-csim.c
+
+```
